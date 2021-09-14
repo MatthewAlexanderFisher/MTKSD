@@ -1,3 +1,3 @@
 # Measure Transport with Kernel Stein Discrepancy
- 
-Full code coming soon...
+
+Code implementing measure transport using kernel Stein discrepancy from "[Measure Transport with Kernel Stein Discrepancy](https://arxiv.org/abs/2010.11779)".
